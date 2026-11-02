@@ -32,37 +32,83 @@ Mini before/after:
 - ✅ "For the last year I've been the person who ships the frontend and wires up
   the API behind it — most recently [concrete thing]."
 
-## English example (for English-first / startup roles)
+## Layout: simple header + footer (use for every cover letter)
+
+Keep it clean and minimal — no logos, no colored bars, no tables. A single
+contact line under a thin rule at the top; the signature (and nothing else) at the
+bottom. In DOCX, the top contact line goes in the page **header** and the sign-off
+in a plain **footer**; for a one-page letter, inline is fine.
 
 ```
-Subject: Full Stack Engineer — [Your Name], available from [Month Year]
+────────────────────────────────────────────────────────────
+[Full Name] — [Headline, e.g. Full-Stack Developer]
+[City, Country] · [email] · [phone] · [linkedin]
+────────────────────────────────────────────────────────────
 
-Hi [hiring manager's name, or "hello team" if unknown],
+[Date]
 
-I saw you're [specific thing from the JD or their product — e.g. "rebuilding the
-booking flow" / "moving the dashboard to React"]. That's close to what I do every
-week: as a working-student full-stack engineer at [current company] I build the
-[React] frontend and the [Node/Spring/Django] services behind it, while finishing
-my master's in International Software Systems Science at the University of Bamberg.
+[Company]
+[Hiring person, or "Hiring Team"]
 
-Two things I've actually shipped there: [item 1 — what it does and who uses it,
-one line], and [item 2 — a problem you fixed, with a real before/after if you have
-one]. Doing a demanding master's and shipping at the same time has made me quick at
-[the honest skill — e.g. "landing in an unfamiliar codebase and getting a feature
-out without much hand-holding"].
+Application — [Role]
 
-What pulls me toward [Company] specifically is [one genuine, specific reason — the
-domain, the stack, something in the JD]. [Optional, if true: "My thesis work on
-[topic] lines up directly with [their thing]."]
+Dear [name / "Hiring Team"],
 
-I'm making the move from working-student to full-time now: I [finish my thesis in
-[Month] / have graduated], I'm already in [city], and I can start [date] with
-[notice]. Happy to walk you through any of it — code or a quick call, whichever
-suits you.
+[Hook — one specific line about them/their mission, swapped per company.]
 
-Best regards,
-[Your Name]
-[phone · email · GitHub/LinkedIn]
+[One line on who you are + 2–3 real things you've built, tied to this role.]
+
+[One line on how your stack overlaps their JD.]
+
+[Logistics: where you're based, availability, languages.]
+
+I'd be glad to talk about how I could fit in. Thanks for your time.
+
+Warm regards,
+[Full Name]
+```
+
+### Worked example (based on the 1KOMMA5° working-student role)
+
+```
+────────────────────────────────────────────────────────────
+Muhammad Rahman — Full-Stack Developer
+Bamberg, Germany · dev.rahman01@gmail.com · +49 157 56563397 · linkedin.com/in/dev-rahman
+────────────────────────────────────────────────────────────
+
+1 November 2026
+
+1KOMMA5°
+Hiring Team
+
+Application — Working Student, Software Engineering
+
+Dear Hiring Team,
+
+What pulled me to apply is the mission itself — solar, heat pumps, and charging
+tied into one platform. That's a problem I'd genuinely enjoy working on, and one
+that actually matters, which I can't say about most software jobs.
+
+I'm a full-stack developer with four years across Angular, React, Next.js,
+Flutter, and Node/NestJS, currently finishing my Master's in Software Systems at
+the University of Bamberg. At Alliance Tech I helped rebuild two mobile apps used
+by 100,000+ people and moved the backend onto Node.js/Express to make it
+maintainable; I also built HIPAA-compliant telehealth features with real-time
+WebSocket sync, which taught me to build carefully when the data is sensitive.
+Right now I'm a Werkstudent at Siemens Healthineers, where much of my work is
+turning half-defined problems into something we can actually ship — close to what
+this role asks for.
+
+I already work with most of your stack — TypeScript, Node, NestJS, React,
+Next.js — and I've built REST APIs before, so I wouldn't be starting from zero.
+
+I'm enrolled at Bamberg for a while yet, based in Germany, and happy to work
+remotely. My English is C1 and my German is coming along (A2).
+
+I'd be glad to talk about how I could fit into the team. Thanks for your time.
+
+Warm regards,
+Muhammad Rahman
 ```
 
 ## German formal structure (for traditional/Mittelstand roles)

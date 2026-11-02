@@ -24,21 +24,37 @@ architectures, HIPAA-compliant systems.
 - **Languages/Tools:** JavaScript, TypeScript, Python, Dart, Git/GitHub, Figma,
   Jira, Postman, Agile
 
-## Experience
-1. **Siemens Healthineers — Software Engineer (Werkstudent)** · May 2026–present ·
-   Bamberg. Reliability of diagnostic/imaging machines; prototyping solutions to
-   real healthcare/engineering challenges. *(Current role — full-time conversion
-   is a direct-conversation target with this employer.)*
-2. **Alliance Tech — Full-Stack Developer** · Jul 2023–Mar 2025. Rebuilt two
-   connected Flutter apps (100,000+ combined users, MVC + GetX); migrated backend
-   to Node.js/Express. Built HIPAA-compliant telehealth: Azure AI speech-to-text +
-   WebSocket real-time sync.
-3. **Meta Melon — Front-End Developer** · May 2022–Jun 2023. Migrated a React
-   crypto platform (NFT minting, token staking) to Next.js SSR/ISR, ~30% faster
-   (Lighthouse); Ethers.js + MetaMask for in-browser mint/stake.
-4. **Alliance Tech — Front-End Intern** · Dec 2021–Feb 2022. Real-time
-   collaborative whiteboard (tldraw, yjs, 100ms); Agora video calls; Node/Express
-   backend.
+## Experience (these are the canonical bullets tailored CVs build from)
+
+**Siemens Healthineers — Software Engineer (Werkstudent)** · May 2026–present · Bamberg
+- Work on the reliability of diagnostic and imaging systems, turning loosely-defined
+  clinical and engineering problems into scoped, buildable solutions with the team.
+- Prototype and validate fixes against real failure cases, then feed the results back
+  into measurable reliability improvements. *(Add one concrete artifact/tool you built
+  here + its stack — it'll make this role land much harder.)*
+- *(Current role — full-time conversion is a direct-conversation target with this
+  employer.)*
+
+**Alliance Tech — Full-Stack Developer** · Jul 2023–Mar 2025
+- Rebuilt two linked Flutter apps serving 100,000+ users around an MVC + GetX
+  architecture so state and navigation stopped fighting each other, then moved the
+  backend to Node.js/Express to make it maintainable and ready to scale.
+- Designed and shipped the HIPAA-compliant telehealth layer: live sessions with Azure
+  AI speech-to-text and WebSocket sync, built to keep sensitive patient data secure
+  and auditable end to end.
+
+**Meta Melon — Front-End Developer** · May 2022–Jun 2023
+- Led the migration of a React NFT/staking platform to Next.js, using SSR and ISR to
+  cut initial load by ~30% (Lighthouse) and make the token pages indexable.
+- Wired the frontend straight to the chain with Ethers.js — MetaMask connection,
+  contract reads/writes, and transaction states — so users could mint and stake
+  without leaving the browser.
+
+**Alliance Tech — Front-End Intern** · Dec 2021–Feb 2022
+- Built a real-time collaborative whiteboard with tldraw and Yjs (CRDT) so several
+  people could edit the same canvas with changes merging live.
+- Added Agora-powered video calls beside the canvas and contributed REST endpoints on
+  the Node.js/Express backend.
 
 ## Education
 - **M.Sc. Software Systems** — Otto-Friedrich-University Bamberg · 2025–present.
